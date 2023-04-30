@@ -9,8 +9,6 @@ services:
     
   server:
     image: portainer/portainer-ce:latest
-    user: "1000:1000"
-    restart: on-failure
     volumes:
       - ${APP_DATA_DIR}/data:/data
       - /var/run/docker.sock:/var/run/docker.sock
