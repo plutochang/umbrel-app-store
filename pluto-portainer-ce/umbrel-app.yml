@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: portainer-ce
+id: pluto-portainer-ce
 name: Portainer Community Edition (CE)
 tagline: Run Portainer Community Edition (CE) on your Umbrel
 icon: https://avatars.githubusercontent.com/u/22225832
